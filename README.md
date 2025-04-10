@@ -6,17 +6,17 @@ This project implements **real-time face recognition** using a webcam feed. It d
 
 ## 📂 Project Structure
 
-# Face_recognition/
-# │
-# ├── known_faces/           # Folder containing subfolders of known persons with images
-# │   ├── Alice/
-# │   │   └── img1.jpg
-# │   └── Bob/
-# │       └── img1.jpg
-# │
-# ├── capture_and_save.py    # Script to generate face encodings from known images
-# ├── recognize_from_video.py # Main script for face detection and recognition
-# ├── face_database.npz      # Saved encodings and labels
+### Face_recognition/
+### │
+### ├── known_faces/           # Folder containing subfolders of known persons with images
+### │   ├── Alice/
+### │   │   └── img1.jpg
+### │   └── Bob/
+### │       └── img1.jpg
+### │
+### ├── capture_and_save.py    # Script to generate face encodings from known images
+### ├── recognize_from_video.py # Main script for face detection and recognition
+### ├── face_database.npz      # Saved encodings and labels
 
 
 ---
